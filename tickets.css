@@ -1,0 +1,8 @@
+.tickets {
+    & h3, & p {margin:0}
+    & > div {padding: 10px;}
+    & .ticket-btn {
+        padding:10px 20px; background:red; color:#fff; display:inline-block; cursor
+        &:hover {background:black}
+    }
+}
