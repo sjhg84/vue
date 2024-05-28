@@ -1,6 +1,6 @@
 export default {
     template: `
-    <link rel="stylesheet" href="./assets/tickets.css">
+    <link rel="stylesheet" href="./tickets.css">
     <div class="tickets" v-if="showTickets">
         <div :class="[{'featured': ticket.isFeatured}, 'category-' + ticket.category.toLowerCase()]" v-for="ticket in tickets">
             <h3>{{ticket.category}}</h3>
