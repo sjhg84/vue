@@ -1,7 +1,7 @@
 export default {
     template: `
     <footer class="bg-black text-light py-5">
-    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/sjhg84/vue/tickets.css">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/sjhg84/vue/footer.css">
         <div class="container">
             <div class="row">
                 <div class="col-md">
