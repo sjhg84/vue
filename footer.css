@@ -1,0 +1,10 @@
+footer {font-size:14px !important}
+footer .text-light {color:#A0A0A0 !important}
+footer .footer-icon:hover {opacity:0.8}
+footer ul {list-style:none; padding:0}
+footer ul li {padding-bottom:10px}
+footer a, footer ul li a {
+    text-decoration:none;
+    &:hover {text-decoration:underline}
+}
+footer ul li .fa {margin-right:10px}
