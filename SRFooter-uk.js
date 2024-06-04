@@ -7,25 +7,25 @@ export default {
                 <div class="col-md">
                     <img width="220" style="opacity:.7" src="https://cch-files.edge.live.ds25.io/cch/v/6a50f05c-d80c-431e-83f4-1bd0bf1d9722/files/64cb4ddb83b73_logo.png?o=333&amp;q=high&amp;s=333" data-src="https://cch-files.edge.live.ds25.io/cch/v/6a50f05c-d80c-431e-83f4-1bd0bf1d9722/files/64cb4ddb83b73_logo.png" alt="Success Resources" class="pgb-align-left pgb-image-radius-select-no no-shadow pgb-full-color">
                     <div class="py-3 d-flex gap-3">
-                        <a class="text-light h2 footer-icon" href="https://www.facebook.com/SuccessResources" class="pgb-theme-icon-default" target="_blank">
+                        <a class="text-light h2 footer-icon" href="https://www.facebook.com/SuccessResources" target="_blank">
                             <i class="fa fa-facebook-square"></i>
                         </a>
-                        <a class="text-light h2 footer-icon" href="https://www.linkedin.com/company/127784" class="pgb-theme-icon-default" target="_blank">
+                        <a class="text-light h2 footer-icon" href="https://www.linkedin.com/company/127784" target="_blank">
                             <i class="fa fa-linkedin-square"></i>
                         </a>
-                        <a class="text-light h2 footer-icon" href="https://twitter.com/srseminars" class="pgb-theme-icon-default" target="_blank">
+                        <a class="text-light h2 footer-icon" href="https://twitter.com/srseminars" target="_blank">
                             <i class="fa fa-twitter-square"></i>
                         </a>
-                        <a class="text-light h2 footer-icon" href="https://www.pinterest.com/srseminars/" class="pgb-theme-icon-default" target="_blank">
+                        <a class="text-light h2 footer-icon" href="https://www.pinterest.com/srseminars/" target="_blank">
                             <i class="fa fa-pinterest-square"></i>
                         </a>
-                        <a class="text-light h2 footer-icon" href="https://www.instagram.com/successresourcesglobal/" class="pgb-theme-icon-default" target="_blank">
+                        <a class="text-light h2 footer-icon" href="https://www.instagram.com/successresourcesglobal/" target="_blank">
                             <i class="fa fa-instagram"></i>
                         </a>
-                        <a class="text-light h2 footer-icon" href="https://www.youtube.com/user/successresources" class="pgb-theme-icon-default" target="_blank">
+                        <a class="text-light h2 footer-icon" href="https://www.youtube.com/user/successresources" target="_blank">
                             <i class="fa fa-youtube-play"></i>
                         </a>
-                        <a class="text-light h2 footer-icon" href="https://successresources.com/" class="pgb-theme-icon-default" target="_blank">
+                        <a class="text-light h2 footer-icon" href="https://successresources.com/" target="_blank">
                             <i class="fa fa-globe"></i>
                         </a>
                     </div>
